@@ -1,10 +1,9 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
-	order: 3
+	key: "Home",
+	order: 1
 };
 ---
-# About
 
 Based in the UK, I am a Senior Staff Software Engineer at Netlify.
 
