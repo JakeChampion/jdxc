@@ -1,5 +1,5 @@
 export default {
-	title: "Jake Champion"
+	title: "Jake Champion",
 	url: "https://jakechampion.name/",
 	language: "en",
 	description: "Jake Champion's website",
