@@ -5,14 +5,13 @@ date: 2024-11-03
 tags: software
 ---
 
-oha
-xh
-fd
-ripgrep
-jujutsu
-firefox
-iterm
-volta
-rustup
-vscode
-
+- oha
+- xh
+- fd
+- ripgrep
+- jujutsu
+- firefox
+- iterm
+- volta
+- rustup
+- vscode
