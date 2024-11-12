@@ -7,6 +7,7 @@ tags: software
 
 
 CLI Things:
+- [zsh4humans](https://github.com/romkatv/zsh4humans)
 - [oha](https://github.com/hatoo/oha)
 - [xh](https://github.com/ducaale/xh)
 - [fd](https://github.com/sharkdp/fd)
